@@ -214,7 +214,7 @@ const Form={
     try {
 
     //verificar se todas as informaçoes foram preenchidas
-   // Form.validateFields()
+    Form.validateFields()
 
 
     //formatar os dados para salvar
